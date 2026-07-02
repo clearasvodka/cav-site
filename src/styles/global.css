@@ -41,6 +41,10 @@ h2 {
   letter-spacing: -2%;
 }
 
+.label {
+  font-weight: 500;
+}
+
 hr {
   margin: 20px 0;
 }

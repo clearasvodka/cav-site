@@ -1,0 +1,21 @@
+---
+const { title, url, pubDate, lead, image } = Astro.props;
+---
+
+<li class="blog-grid-item">
+  <a href={url}
+    ><div class="post-card">
+      <p>{pubDate}</p>
+      <p class="label">{title}</p>
+      <img src={image.url} alt={image.alt} />
+      <p>{lead}</p>
+    </div></a
+  >
+</li>
+
+<style>
+  .blog-grid-item {
+    height: 320px;
+    display: grid;
+  }
+</style>
