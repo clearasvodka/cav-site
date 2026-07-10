@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/PostLayout.astro
-title: "First Post"
+title: "Dev"
 pubDate: 2026-07-01
 lead: "This is the first post of my new Astro blog."
 author: "Rost Oso"
