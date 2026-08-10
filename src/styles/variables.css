@@ -24,6 +24,7 @@
   --cav-color-content-disabled: oklch(
     from var(--cav-color-content-primary) l c h / 0.2
   );
+  --cav-color-stroke-default: var(--cav-color-neutral-40);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -31,6 +32,7 @@
     --cav-color-background-base: var(--cav-color-neutral-100);
     --cav-color-background-inverse: var(--cav-color-white);
     --cav-color-surface: var(--cav-color-neutral-90);
-    --cav-color-content-primary: var(--cav-color-white);
+    --cav-color-content-primary: var(--cav-color-neutral-10);
+    --cav-color-stroke-default: var(--cav-color-neutral-60);
   }
 }

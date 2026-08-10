@@ -27,6 +27,8 @@ Winnie-the-Pooh looked round to see that nobody was listening, put his paw to hi
 "But you don't get honey with balloons!"
 "I do," said Pooh.
 
+---
+
 Well, it just happened that you had been to a party the day before at the house of your friend Piglet, and you had balloons at the party. You had had a big green balloon; and one of Rabbit's relations had had a big blue one, and had left it behind, being really too young to go to a party at all; and so you had brought the green one and the blue one home with you.
 "Which one would you like?" you asked Pooh.
 He put his head between his paws and thought very carefully.
